@@ -1,6 +1,11 @@
-![img.png](img.png)
+[//]: # (![img.png]&#40;img.png&#41;)
 
-![structure.png](structure.png)
+<img src="./img.png" width="720px">
+
+
+[//]: # (![structure.png]&#40;structure.png&#41;)
+
+<img src="./structure.png" width="926">
 
 This is my folder structure. 
 
