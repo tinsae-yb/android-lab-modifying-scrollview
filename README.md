@@ -1,11 +1,11 @@
 [//]: # (![img.png]&#40;img.png&#41;)
 
-<img src="./img.png" width="720px">
+<img src="./img.png" width="500px">
 
 
 [//]: # (![structure.png]&#40;structure.png&#41;)
 
-<img src="./structure.png" width="926">
+<img src="./structure.png" width="500px">
 
 This is my folder structure. 
 
